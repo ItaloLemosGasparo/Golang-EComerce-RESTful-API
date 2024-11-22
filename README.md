@@ -59,7 +59,4 @@ The project is built in Go using the Gin framework for REST API development. The
 ## Main Functionalities
 - **User Registration and Authentication:** Allows users to register and log in using encrypted passwords.
 - **Supplier and Product Management:** Offers complete CRUD (create, read, update, delete) functionality for suppliers and products.
-- **Favorites and Shopping Cart:** Allows users to add products to favorites and manage their shopping cart.
-
-## Conclusion
-The project follows a modular architecture, where each package has a specific responsibility. This facilitates the maintenance and expansion of the system, allowing for the organized addition of new features.
+- **Favorites and Shopping Cart:** Allows users to add products to favorites and manage their shopping cart
